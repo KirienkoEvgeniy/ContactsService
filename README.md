@@ -22,4 +22,4 @@ SQL БД можно использовать любую, предпочтите�
 Наличие тестов
 К результату приложить объяснение, как развернуть БД, запустить приложение. Было бы здорово, если бы окружение поднималось с помощью Vagrant, виртуализация VirtualBox.
 В README должен присутствовать статус сборки от Travis CI
-https://travis-ci.org/KirienkoEvgeniy/ContactsService.svg?branch=master
+[![Build Status](https://travis-ci.org/KirienkoEvgeniy/ContactsService.svg?branch=master)](https://travis-ci.org/KirienkoEvgeniy/ContactsService)
